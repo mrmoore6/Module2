@@ -3,7 +3,7 @@ Program: camper_age_input.py
 Author: Michael Moore
 Last date modified: 9/5/2020
 
-The purpose of this program is to convert years into months.
+ The purpose of this program is to convert years into months.
 """
 def convert_to_months(year):
     months = year * 12
