@@ -5,7 +5,9 @@ Last date modified: 9/5/2020
 
   The purpose of this program is to convert years into months.
 """
-import constants
+from main import constants
+
+
 def convert_to_months(year):
     months = year * constants.MONTHS
     return(months)
